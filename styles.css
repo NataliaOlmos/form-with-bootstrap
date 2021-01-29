@@ -1,0 +1,9 @@
+body {
+    background: #F2EDDC;
+}
+
+.bg {
+    background-image: url("https://ak.picdn.net/shutterstock/videos/1027576106/thumb/1.jpg");
+    background-position: center center;
+    background-size: 800px 810px;
+}
